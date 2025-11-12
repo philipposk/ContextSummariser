@@ -1,0 +1,1 @@
+The ContextUmmariser is an app designed to automatically shorten and simplify text, transforming long contexts, instructions, or rule sets into compact, LLM-friendly summaries. Ideal for improving prompt efficiency, reducing token usage, and keeping essential meaning intact.
